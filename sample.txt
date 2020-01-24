@@ -1,0 +1,8 @@
+Sydney, 49, 13, 123, 06
+Melbourne, 51, 1, 114, 1
+Brisbane, 53, 34, 113, 28
+Adelaide, 47, 37, 122, 20
+Perth, 45, 31, 122, 41
+Canberra, 34, 3, 118, 15
+Hobart, 37, 47, 122, 26
+Darwin, 39, 45, 105, 0
